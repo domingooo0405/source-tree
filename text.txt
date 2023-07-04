@@ -4,3 +4,4 @@ WORLD
 same file1
 clone1
 test1
+this is bugfix!
