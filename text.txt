@@ -1,6 +1,6 @@
 HEllO
-
+same file1
 WORLD
-
+same file1
 clone1
 test1
