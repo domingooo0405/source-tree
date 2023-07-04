@@ -1,2 +1,6 @@
 text2
+<<<<<<< HEAD
 clone2
+=======
+clone 1
+>>>>>>> 54198c93ba3772af419ee2e4a40b0a967253dc0e
